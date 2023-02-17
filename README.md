@@ -68,6 +68,7 @@ python train.py --data coco.yaml --cfg yolov5n.yaml --weights '' --batch-size 12
 ```
 
 <img width="800" src="https://user-images.githubusercontent.com/26833433/90222759-949d8800-ddc1-11ea-9fa1-1c97eed2b963.png">
+</details>
 <details>
 <summary>Samples</summary>
  <p align="left">
@@ -78,3 +79,4 @@ python train.py --data coco.yaml --cfg yolov5n.yaml --weights '' --batch-size 12
   <img src="https://github.com/mohammad-adiban/BCCD/blob/main/figs/bccd4.png" width="450" title="hover text"><br />
   <img src="https://github.com/mohammad-adiban/BCCD/blob/main/figs/bccd5.png" width="450" title="hover text"><br />
 </p>
+</details>
