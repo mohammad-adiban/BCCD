@@ -76,7 +76,7 @@ python train.py --data coco.yaml --cfg yolov5n.yaml --weights '' --batch-size 12
 <summary>Samples</summary>
  <p align="left">
  <b>Object detection:</b><br />
- <div class="image-container">
+ <div>
      <img src="https://github.com/mohammad-adiban/BCCD/blob/main/figs/bccd1.png" width="150" title="hover text">
      <img src="https://github.com/mohammad-adiban/BCCD/blob/main/figs/bccd2.png" width="150" title="hover text">
      <img src="https://github.com/mohammad-adiban/BCCD/blob/main/figs/bccd3.png" width="150" title="hover text">
