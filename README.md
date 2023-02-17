@@ -72,7 +72,7 @@ python train.py --data coco.yaml --cfg yolov5n.yaml --weights '' --batch-size 12
 <details>
 <summary>Samples</summary>
  <p align="left">
-  <b>Reconstructions:</b><br />
+  <b>Object detection:</b><br />
   <img src="https://github.com/mohammad-adiban/BCCD/blob/main/figs/bccd1.png" width="450" title="hover text"><br />
   <img src="https://github.com/mohammad-adiban/BCCD/blob/main/figs/bccd2.png" width="450" title="hover text"><br />
   <img src="https://github.com/mohammad-adiban/BCCD/blob/main/figs/bccd3.png" width="450" title="hover text"><br />
