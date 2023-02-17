@@ -73,6 +73,11 @@ python train.py --data coco.yaml --cfg yolov5n.yaml --weights '' --batch-size 12
 
 
 <details>
+  .div{
+
+float: left;
+
+}
 <summary>Samples</summary>
  <p align="left">
   <b>Object detection:</b><br />
