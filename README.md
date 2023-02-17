@@ -73,18 +73,15 @@ python train.py --data coco.yaml --cfg yolov5n.yaml --weights '' --batch-size 12
 
 
 <details>
-  .div{
-
-float: left;
-
-}
 <summary>Samples</summary>
  <p align="left">
-  <b>Object detection:</b><br />
- <div><img src="https://github.com/mohammad-adiban/BCCD/blob/main/figs/bccd1.png" width="150" title="hover text"></div>
- <div><img src="https://github.com/mohammad-adiban/BCCD/blob/main/figs/bccd2.png" width="150" title="hover text"></div>
- <div><img src="https://github.com/mohammad-adiban/BCCD/blob/main/figs/bccd3.png" width="150" title="hover text"></div>
- <div><img src="https://github.com/mohammad-adiban/BCCD/blob/main/figs/bccd4.png" width="150" title="hover text"></div>
- <div><img src="https://github.com/mohammad-adiban/BCCD/blob/main/figs/bccd5.png" width="150" title="hover text"></div>
+ <b>Object detection:</b><br />
+ <div class="image-container">
+     <img src="https://github.com/mohammad-adiban/BCCD/blob/main/figs/bccd1.png" width="150" title="hover text">
+     <img src="https://github.com/mohammad-adiban/BCCD/blob/main/figs/bccd2.png" width="150" title="hover text">
+     <img src="https://github.com/mohammad-adiban/BCCD/blob/main/figs/bccd3.png" width="150" title="hover text">
+     <img src="https://github.com/mohammad-adiban/BCCD/blob/main/figs/bccd4.png" width="150" title="hover text">
+     <img src="https://github.com/mohammad-adiban/BCCD/blob/main/figs/bccd5.png" width="150" title="hover text">
+ </div>
 </p>
 </details>
